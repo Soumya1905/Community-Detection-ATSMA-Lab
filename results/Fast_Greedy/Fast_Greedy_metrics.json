@@ -1,0 +1,46 @@
+{
+  "algorithm": "Fast_Greedy",
+  "dataset_file": "lastfm_asia_edges.csv",
+  "num_nodes": 7624,
+  "num_edges": 27806,
+  "num_connected_components": 1,
+  "num_communities": 44,
+  "overall_modularity": 0.7965711391638817,
+  "modularity_definition": "igraph unweighted undirected modularity, resolution=1, original simple graph",
+  "execution_time_seconds": 0.23188939999090508,
+  "largest_community_size": 1512,
+  "smallest_community_size": 3,
+  "average_community_size": 173.27272727272728,
+  "random_seed": null,
+  "parameters": {
+    "implementation": "igraph.Graph.community_fastgreedy + VertexDendrogram.as_clustering()",
+    "weights": null,
+    "cut_selection": "maximum-modularity level of the dendrogram (optimal_count)"
+  },
+  "convergence": {
+    "applicable": false
+  },
+  "software_versions": {
+    "python": "3.13.2",
+    "igraph": "1.0.0",
+    "networkx": "3.7",
+    "numpy": "2.2.4",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.7",
+    "scikit-learn": "1.6.1"
+  },
+  "preprocessing": {
+    "raw_edge_rows": 27806,
+    "self_loops_removed": 0,
+    "duplicate_edges_removed": 0,
+    "edges_after_cleaning": 27806,
+    "nodes": 7624,
+    "isolated_nodes": 0,
+    "nodes_without_target_label": 0,
+    "connected_components": 1,
+    "directed": false,
+    "policy": "Undirected simple graph; self-loops and duplicate (incl. reversed) edges dropped; no nodes removed; whole graph (all components) used."
+  },
+  "target_label_note": "country_target_id is the dataset's integer country-derived class; the README does not give the id->country mapping.",
+  "deterministic": true
+}

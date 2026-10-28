@@ -1,0 +1,4 @@
+algorithm,num_communities,overall_modularity,execution_time_seconds,largest_community_size,smallest_community_size,average_community_size,random_seed,converged
+Louvain,24,0.8158516148628739,0.025367100024595857,1016,4,317.6666666666667,42.0,
+Fast_Greedy,44,0.7965711391638817,0.23188939999090508,1512,3,173.27272727272728,,
+BLDLP,376,0.7626570656891869,192.51007050002227,1006,2,20.27659574468085,42.0,False

@@ -1,0 +1,4 @@
+rank,community_id,num_nodes,internal_edges,internal_density,avg_clustering_coefficient,is_connected,num_connected_components,path_metrics_scope,path_metrics_nodes,avg_shortest_path_length,diameter,dominant_country_target_id,dominant_country_share,notes
+1,0,1016,4586,0.008894146852333114,0.24264174467459848,True,1,whole community,1016,3.523594895465653,8,0,0.9153543307086615,
+2,1,983,3629,0.007518859304717882,0.23916706700469312,True,1,whole community,983,3.7741234385780262,11,10,0.8860630722278738,
+3,2,969,3482,0.007424370357103259,0.22652446328529288,True,1,whole community,969,3.7663604806864024,11,14,0.46233230134158926,
