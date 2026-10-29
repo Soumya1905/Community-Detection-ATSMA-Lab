@@ -1,1 +1,1 @@
-2026-10-20 16:35:53,832 INFO Louvain: 24 communities, modularity 0.8159, time 0.025s; outputs in C:\Users\Lenovo\OneDrive\Desktop\Community detection\results\Louvain
+2026-10-28 22:06:44,435 INFO Louvain: 24 communities, modularity 0.8159, time 0.061s; outputs in D:\Clone repositires\Community Detection ATSMA Lab\results\Louvain

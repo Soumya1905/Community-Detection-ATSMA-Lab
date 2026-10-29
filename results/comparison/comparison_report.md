@@ -6,9 +6,9 @@ All figures below are read from the saved result files of the actual runs.
 
 | algorithm | num_communities | overall_modularity | execution_time_seconds | largest_community_size | smallest_community_size | average_community_size | random_seed | converged |
 |---|---|---|---|---|---|---|---|---|
-| Louvain | 24 | 0.8159 | 0.02537 | 1016 | 4 | 317.7 | 42 |  |
-| Fast_Greedy | 44 | 0.7966 | 0.2319 | 1512 | 3 | 173.3 |  |  |
-| BLDLP | 376 | 0.7627 | 192.5 | 1006 | 2 | 20.28 | 42 | False |
+| Louvain | 24 | 0.8159 | 0.06079 | 1016 | 4 | 317.7 | 42 |  |
+| Fast_Greedy | 44 | 0.7966 | 0.3291 | 1512 | 3 | 173.3 |  |  |
+| BLDLP | 376 | 0.7627 | 377.5 | 1006 | 2 | 20.28 | 42 | False |
 
 BLDLP convergence: converged = **False** after 10000 iterations (max_iter = 10000). Seed 42; a single run only, so BLDLP's result is one sample of a randomised process.
 

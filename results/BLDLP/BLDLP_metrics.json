@@ -7,7 +7,7 @@
   "num_communities": 376,
   "overall_modularity": 0.7626570656891869,
   "modularity_definition": "igraph unweighted undirected modularity, resolution=1, original simple graph",
-  "execution_time_seconds": 192.51007050002227,
+  "execution_time_seconds": 377.4729157999391,
   "largest_community_size": 1006,
   "smallest_community_size": 2,
   "average_community_size": 20.27659574468085,
@@ -48,5 +48,5 @@
     "policy": "Undirected simple graph; self-loops and duplicate (incl. reversed) edges dropped; no nodes removed; whole graph (all components) used."
   },
   "target_label_note": "country_target_id is the dataset's integer country-derived class; the README does not give the id->country mapping.",
-  "weight_computation_seconds": 0.14723609999055043
+  "weight_computation_seconds": 0.17818729998543859
 }

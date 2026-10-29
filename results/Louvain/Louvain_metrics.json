@@ -7,7 +7,7 @@
   "num_communities": 24,
   "overall_modularity": 0.8158516148628739,
   "modularity_definition": "igraph unweighted undirected modularity, resolution=1, original simple graph",
-  "execution_time_seconds": 0.025367100024595857,
+  "execution_time_seconds": 0.06079130002763122,
   "largest_community_size": 1016,
   "smallest_community_size": 4,
   "average_community_size": 317.6666666666667,

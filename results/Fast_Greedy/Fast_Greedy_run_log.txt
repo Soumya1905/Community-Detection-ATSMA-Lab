@@ -1,1 +1,1 @@
-2026-10-20 16:35:55,518 INFO Fast_Greedy: 44 communities, modularity 0.7966, time 0.232s; outputs in C:\Users\Lenovo\OneDrive\Desktop\Community detection\results\Fast_Greedy
+2026-10-28 22:06:46,526 INFO Fast_Greedy: 44 communities, modularity 0.7966, time 0.329s; outputs in D:\Clone repositires\Community Detection ATSMA Lab\results\Fast_Greedy
